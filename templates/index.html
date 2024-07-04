@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatBot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>ChatBot Assistant</h1>
+        </header>
+        <div class="chat-container">
+            <div class="chat-box" id="chat-box">
+                <div class="chat-message bot">
+                    <img src="https://cdn-icons-png.flaticon.com/512/4712/4712100.png" alt="ChatBot Icon" class="icon">
+                    <div class="message bot">Hi! I'm a simple chatbot, I'm here to assist you!</div>
+                </div>
+            </div>
+            <div class="chat-input">
+                <input type="text" id="user-input" placeholder="Type your message here...">
+                <button onclick="sendMessage()">Send</button>
+            </div>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
