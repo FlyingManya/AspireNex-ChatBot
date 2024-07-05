@@ -69,7 +69,7 @@ This chatbot is built using Flask and Python, and it leverages regular expressio
 <br>
 
 ## Languages and Tools
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a></p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="60"/></a> </p>
 <br>
 
 ## CODE EXPLANATION
@@ -104,16 +104,17 @@ This chatbot is built using Flask and Python, and it leverages regular expressio
 ## templates 
 - index.html: This HTML file serves as the main template for your web application, defining the structure and content that Flask will render and serve to users.
 
+<br>
 
 ## CONCLUSION
 *In summary, this chatbot project effectively handles a wide range of user inputs by using regular expressions for pattern matching. It recognizes and responds to various edge cases, providing a seamless user experience.
 Moving forward, I plan to enhance its capabilities further by integrating more advanced natural language processing techniques.
 Thank you for Visiting*
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=flyingmanya&label=Profile%20views&color=0e75b6&style=flat" alt="flyingmanya" /> </p>
-🌵 https://gautamrajputmanya.wixsite.com/mysite 
+<br>
+<br>
+<br>
 
-📫 *gautamrajputmanya@gmail.com*
 <br>
 <image align="right" alt="coding" width="250" src="https://github.com/FlyingManya/FlyingManya/assets/98754211/0a854199-b287-4dca-a4cc-8265cbd3335e" alt="flyingmanya"></p>
 
@@ -123,3 +124,7 @@ Thank you for Visiting*
 <a href="https://instagram.com/flying_manya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flying_manya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/flying_manya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="flying_manya" height="30" width="40" /></a>
 </p>
+
+🌵 https://gautamrajputmanya.wixsite.com/mysite 
+
+📫 *gautamrajputmanya@gmail.com*
