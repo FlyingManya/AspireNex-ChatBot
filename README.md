@@ -16,9 +16,9 @@ Build a simple chatbot that responds to user inputs based on predefined rules. U
 The main goal is to create a versatile chatbot that can manage different edge cases in user queries.<br>
 This chatbot is built using Flask and Python, and it leverages regular expressions for advanced pattern matching to provide accurate responses to user queries*
 <br>
-<p align="left"> <img src="![ChatBot1](https://github.com/FlyingManya/AspireNex-ChatBot/assets/98754211/fcc1b2e3-b497-48ad-a57c-f66200748194)" alt="ChatBot" /></p>
-
-
+<p align="right">
+  <img src="./ChatBot1.png" alt="ChatBot Image" width="300">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flyingmanya&label=Profile%20views&color=0e75b6&style=flat" alt="flyingmanya" /> </p>
 🌵 https://gautamrajputmanya.wixsite.com/mysite 
