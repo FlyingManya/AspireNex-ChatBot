@@ -46,7 +46,7 @@ This chatbot is built using Flask and Python, and it leverages regular expressio
 <table style="border: none">
   <tr style="border: none;">
     <td style="border: none; vertical-align: top;">
-      <img src="./ChatBot1.png" alt="ChatBot Image">
+      <img src="./ChatBot2.png" alt="ChatBot Image">
     </td>
     <td style="border: none; vertical-align: top">
       <h3>Personal Questions:</h3>
@@ -66,7 +66,49 @@ This chatbot is built using Flask and Python, and it leverages regular expressio
     </td>
   </tr>
 </table>
+<br>
 
+## Languages and Tools
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a></p>
+<br>
+
+## CODE EXPLANATION
+*Let’s take a quick look at how the code works*
+
+## app.py
+**Flask Setup:**
+*The chatbot is built using Flask, a lightweight web framework for Python*<br>
+
+- **Pattern Matching with Regex:**
+  - *We use regular expressions to match user inputs with predefined patterns*<br>
+
+     ![Patterns](https://github.com/FlyingManya/AspireNex-ChatBot/assets/98754211/4bd594fc-cd7e-4219-bfda-8ab42a417dcb)
+    <br>
+
+  - *This allows the chatbot to handle various inputs, even if they're phrased differently or include punctuation*
+
+- **Response Generation:**
+  - *The **get_response** function uses regex to find the appropriate response for each user input*<br>
+
+    ![get response](https://github.com/FlyingManya/AspireNex-ChatBot/assets/98754211/96955e49-97f1-428d-be27-1d2d3968dcad)
+
+  - *It searches through the patterns and returns the corresponding response.*
+
+- **Routing and Handling Requests:**
+  - *The Flask routes handle incoming requests and return the chatbot's response* <br>
+
+## static
+- style.css: Contains the CSS styles used to customize the appearance and layout of HTML elements in the project.
+- script.js: Includes JavaScript code that provides dynamic behavior and interactivity to the web pages, enhancing user experience.
+
+## templates 
+- index.html: This HTML file serves as the main template for your web application, defining the structure and content that Flask will render and serve to users.
+
+
+## CONCLUSION
+*In summary, this chatbot project effectively handles a wide range of user inputs by using regular expressions for pattern matching. It recognizes and responds to various edge cases, providing a seamless user experience.
+Moving forward, I plan to enhance its capabilities further by integrating more advanced natural language processing techniques.
+Thank you for Visiting*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flyingmanya&label=Profile%20views&color=0e75b6&style=flat" alt="flyingmanya" /> </p>
 🌵 https://gautamrajputmanya.wixsite.com/mysite 
@@ -81,6 +123,3 @@ This chatbot is built using Flask and Python, and it leverages regular expressio
 <a href="https://instagram.com/flying_manya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flying_manya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/flying_manya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="flying_manya" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
