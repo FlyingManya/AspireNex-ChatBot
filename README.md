@@ -16,9 +16,57 @@ Build a simple chatbot that responds to user inputs based on predefined rules. U
 The main goal is to create a versatile chatbot that can manage different edge cases in user queries.<br>
 This chatbot is built using Flask and Python, and it leverages regular expressions for advanced pattern matching to provide accurate responses to user queries*
 <br>
-<p align="right">
-  <img src="./ChatBot1.png" alt="ChatBot Image" width="300">
-</p>
+
+## DEMO
+***Let's see how it works 🌻***
+<table style="border: none">
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: top">
+      <h3>Greeting Edge Cases:</h3>
+      <hr>
+      <p>Type: <em>"Hi there!"</em><br>
+      Response: "Hello! How can I help you today?"<br>
+      Type: <em>"Hello, how are you?"</em><br>
+      Response: "I'm just a chatbot, but I'm here to assist you."<br>
+      Explain: As you can see, the <strong>chatbot correctly identifies different greeting forms, even with additional words or punctuation</strong>.</p> <br>
+      <h3>Technical Inquiries:</h3>
+      <hr>
+      <p>Type: <em>"Can you help me with Python programming?"</em><br>
+      Response: "Absolutely! I can assist you with programming questions."<br>
+      Type: <em>"Do you have any hobbies or interests?"</em><br>
+      Response: "I'm always busy helping users, so my hobby is chatting with people like you!"<br>
+      Explain: <strong>It responds to technical and personal interest questions, even when phrased differently</strong>.</p>
+    </td>
+    <td style="border: none; vertical-align: top">
+      <img src="./ChatBot1.png" alt="ChatBot Image">
+    </td>
+  </tr>
+</table>
+
+<table style="border: none">
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: top;">
+      <img src="./ChatBot1.png" alt="ChatBot Image">
+    </td>
+    <td style="border: none; vertical-align: top">
+      <h3>Personal Questions:</h3>
+      <hr>
+      <p>Type: <em>"What do you do for fun"</em> <strong>(no question mark)</strong><br>
+      Response: "Chatting with users like you is what I enjoy the most!"<br>
+      Type: <em>"What Do you do for fun?"</em> <strong>(varied capitalization)</strong><br>
+      Response: "Chatting with users like you is what I enjoy the most!"<br>
+      Explain: <strong>The chatbot handles variations in capitalization and punctuation thanks to regex pattern matching.</strong></p>
+      <h3>Humor and Trivia:</h3>
+      <hr>
+      <p>Type: <em>"Tell me a joke"</em><br>
+      Response: "Sure! Why don't scientists trust atoms? Because they make up everything!"<br>
+      Type: <em>"Tell me something interesting."</em><br>
+      Response: "Did you know that the world's oldest piece of chewing gum is over 9,000 years old?"<br>
+      Explain: <strong>It can share jokes and trivia, adding an element of fun to the interaction.</strong></p>
+    </td>
+  </tr>
+</table>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flyingmanya&label=Profile%20views&color=0e75b6&style=flat" alt="flyingmanya" /> </p>
 🌵 https://gautamrajputmanya.wixsite.com/mysite 
