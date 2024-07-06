@@ -12,9 +12,8 @@ Build a simple chatbot that responds to user inputs based on predefined rules. U
 
 ![chatbot Banner](https://github.com/FlyingManya/AspireNex-ChatBot/assets/98754211/55315719-5cba-4f58-a2cd-5b7983debf7c)
 
-*This chatbot is built using Flask and Python and utilizes regular expressions to handle various user inputs accurately. <br>
-The main goal is to create a versatile chatbot that can manage different edge cases in user queries.<br>
-This chatbot is built using Flask and Python, and it leverages regular expressions for advanced pattern matching to provide accurate responses to user queries*
+*This chatbot is built using Flask and Python, and it leverages regular expressions for advanced pattern matching to provide accurate responses to user queries. 
+The main goal is to create a versatile chatbot that can manage different edge cases in user queries.<br>*
 <br>
 
 # DEMO
@@ -107,8 +106,10 @@ This chatbot is built using Flask and Python, and it leverages regular expressio
 <br>
 
 ## Running the Code
-After cloning the repository, open the project in your code editor.
+After cloning the repository, open the project in your code editor.<br>
 Navigate to the terminal and execute the following command to start the chatbot server:
+<br>
+
 ![run](https://github.com/FlyingManya/AspireNex-ChatBot/assets/98754211/8baaf98f-ddcd-411e-86ec-cfabe9797595)
 
 <br>
