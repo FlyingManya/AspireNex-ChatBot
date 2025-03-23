@@ -23,7 +23,7 @@ app = Flask(__name__)
         r'\b(do you dream)\b': "I don't dream, but I continuously learn to provide better health assistance.",
         r'\b(what do you do for fun)\b': "Chatting with users like you and providing health insights is my main function!",
         r'\b(are you human)\b': "No, I'm a chatbot created to provide health-related information and support.",
-        r'\b(what's the time)\b': "I'm sorry, I don't have access to real-time information like the current time.",
+        r'\b(whats the time)\b': "I'm sorry, I don't have access to real-time information like the current time.",
         r'\b(bye)\b': "Goodbye! Stay safe and take precautions against vector-borne diseases!",
     }
 def get_response(user_input):
